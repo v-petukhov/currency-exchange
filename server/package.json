@@ -29,7 +29,7 @@
     "dotenv": "^8.2.0",
     "helmet": "^3.21.2",
     "joi": "^14.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nest-winston": "^1.2.0",
     "nestjs-config": "^1.4.4",
     "nestjs-redis": "^1.2.5",
